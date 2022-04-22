@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1650629092233" clover="3.2.0">
-  <project timestamp="1650629092233" name="All files">
+<coverage generated="1650630940649" clover="3.2.0">
+  <project timestamp="1650630940649" name="All files">
     <metrics statements="44" coveredstatements="25" conditionals="16" coveredconditionals="12" methods="11" coveredmethods="7" elements="71" coveredelements="44" complexity="0" loc="44" ncloc="44" packages="1" files="1" classes="1"/>
     <file name="bst.js" path="/Users/michaeloreilly/Desktop/VSCode/SD3/ADS/SprintFinalSD3_Kennedy/scripts/bst.js">
       <metrics statements="44" coveredstatements="25" conditionals="16" coveredconditionals="12" methods="11" coveredmethods="7"/>

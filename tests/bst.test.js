@@ -1,4 +1,4 @@
-const { BinarySearchTree } = require('./scripts/bst');
+const { BinarySearchTree } = require('../scripts/bst');
 
 // unit test 1: rotate left test
 test('test to see if inputs rotate left', () => {
