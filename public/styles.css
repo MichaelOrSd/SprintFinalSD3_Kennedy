@@ -1,4 +1,4 @@
-/*********** HOME PAGE ***********/
+/* Home */
 
 #bsthome {
     text-align: center;
@@ -22,13 +22,14 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+
 }
 
-/********* BST PAGE **********/
+/* BST Page */
 
 #nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     font-family: "Permanent Marker", sans-serif;
     font-size: 2em;
     padding-left: 100px;
@@ -36,12 +37,26 @@ img {
     padding-top: 50px;
 }
 
+nav, a {
+    text-decoration: none;
+}
+nav {
+    border-bottom: 2px solid black;
+}
+
 #bstpage {
     text-align: center;
     font-family: "BIZ UDPMincho", sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
     padding-left: 30px;
     padding-top: 30px;
+}
+
+#note {
+    text-align: center;
+    font-family: "BIZ UDPMincho", sans-serif;
+    font-size: 1em;
+
 }
 
 #bstinput {
@@ -62,7 +77,7 @@ img {
     color: white;
 }
 
-/********* RESULTS PAGE *********/
+/* Results */
 
 #bstresults {
     text-align: center;
